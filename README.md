@@ -18,7 +18,7 @@ This is because many of the columns that should be restricted to certain entries
 4. Got to the Template Generator to set up the actual teams entering.
 5. In cells A2:B9, enter the relevant details. The Code entry here can be any reference you want this specific team to be.
 6. Within the coloured cells, copy the automatically filled out entry(don't copy where there is no entry and NA values) and paste value only to the data tab.
-7. The data tab is where the actual data entry is happening. Change any details that maybe wrong from the template.
+7. The data tab is where the actual data entry is happening. Change any details that maybe different from the template generated ones.
 8. When invoices of each of the entries come, enter the amount in the actual amount column, change the due date if needed and enter the invoice number.
 9. To calculate how much to charge customer for these tours, go to the Pricing Calculator tab and calculate it.
 10. This tab is open for any customisation to help calculate the pricing as it does not change any other values in other tabs.
