@@ -1,6 +1,6 @@
 # Project management/data entry/AR template 
 
-## [Link](https://docs.google.com/spreadsheets/d/12Ga3FjOTrPm-NbdD_vt1rYL4uHXxFE2lnjU66pd6VWE/edit?usp=sharing)
+## [Link to the google sheet](https://docs.google.com/spreadsheets/d/12Ga3FjOTrPm-NbdD_vt1rYL4uHXxFE2lnjU66pd6VWE/edit?usp=sharing)
 
 ## Overview
 I've created this template on google sheets to replace the company's current excel only, disconnected data entry system.
