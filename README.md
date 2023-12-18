@@ -24,7 +24,7 @@ This is because many of the columns that should be restricted to certain entries
 10. This tab is open for any customisation to help calculate the pricing as it does not change any other values in other tabs.
 11. With the final pricing, go to the Invoice Tracker tab and enter relevant details into the columns.
 12. Invoice can be created in the invoice tab.
-13. Everything entered in the data tab, is visible through the Gantt Chart. This shows schedules of all teams entered that was entered into the data tab. It is also highly customisable.
+13. Everything entered in the data tab, is visible through the Gantt Chart. This shows schedules of all teams entered that was entered into the data tab. The starting date of which teams to show can be changed on cell F2. It is also highly customisable.
 <br>
 
 ## What this sheet is actually capable of at this state
