@@ -33,7 +33,8 @@ This is because many of the columns that should be restricted to certain entries
 
 ## Problem of this sheet
 1. Can only manage single customer. (This was not the problem for this agency, as they mainly dealt with a single big company)
-2. Gets slow if the data tab gets too big. 
+2. Gets slow if the data tab gets too big.
+3. Wrong handling can mess it up. 
 
 ## To be but what never became...
 ### Accounts Payable Manager
