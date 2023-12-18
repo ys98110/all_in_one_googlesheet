@@ -32,7 +32,7 @@ This is because many of the columns that should be restricted to certain entries
 2. Manage charging a single customer for the tours
 
 ## Problem of this sheet
-1. Can only manage single customer. (This was not the problem for this agency, as they maiinly dealt with a single big company)
+1. Can only manage single customer. (This was not the problem for this agency, as they mainly dealt with a single big company)
 2. Gets slow if the data tab gets too big. 
 
 ## To be but what never became...
