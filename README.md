@@ -26,6 +26,7 @@ This is because many of the columns that should be restricted to certain entries
 12. Invoice can be created in the invoice tab.
 13. Everything entered in the data tab, is visible through the Gantt Chart. This shows schedules of all teams entered that was entered into the data tab. It is also highly customisable.
 <br>
+
 ## What this sheet is actually capable of at this state
 1. Get entries of the data of the tours with their costs
 2. Manage charging a single customer for the tours
