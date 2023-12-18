@@ -37,11 +37,11 @@ This is because many of the columns that should be restricted to certain entries
 
 ## To be but what never became...
 ### Accounts Payable Manager
-A separate page that manages the invoices enetered that could also connect into bank reconciliation.<br>
+A separate page/google sheet that manages the invoices entered that could also connect into bank reconciliation.<br>
 It can possibly used to overview how much the company spends on each supplier and etc. 
 
 ### Profit and Loss
-A separate page that fully analyses the financial side of the data entered into the data tab and the invoice tracker.<br>
+A separate page/google sheet that fully analyses the financial side of the data entered into the data tab and the invoice tracker.<br>
 The data tab has fairly detailed information and with this, we should be able to derive detailed report.
 
 **These two reports were the reasons why I wanted to create this google sheet in the first place. But sadly it never came to be.**
